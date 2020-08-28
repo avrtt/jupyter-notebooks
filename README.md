@@ -2,8 +2,8 @@
 This repository contains IPython notebooks covering various data science and machine learning problems.  
 Some notebooks are assignments from online courses.  
   
-### List of completed courses:  
-* **Coursera specialization '[Machine learning and data analysis](https://www.coursera.org/specializations/machine-learning-data-analysis)'**  
+### List of courses:  
+* **Coursera specialization '[Machine Learning and Data Analysis](https://www.coursera.org/specializations/machine-learning-data-analysis)'** [RUS]  
 [SPECIALIZATION CERTIFICATE]  
 
 1. *Mathematics and Python for data analysis*  
@@ -17,4 +17,17 @@ Some notebooks are assignments from online courses.
 5. *Data analysis applications*  
 [CERTIFICATE]  
   
+  
+* **Coursera specialization '[Applied Data Science with Python](https://www.coursera.org/specializations/data-science-python)'** [ENG]  
+[SPECIALIZATION CERTIFICATE]  
 
+1. *Introduction to Data Science in Python*  
+[CERTIFICATE]  
+2. *Applied Plotting, Charting & Data Representation in Python*  
+[CERTIFICATE]  
+3. *Applied Machine Learning in Python*  
+[CERTIFICATE]  
+4. *Applied Text Mining in Python*  
+[CERTIFICATE]  
+5. *Applied Social Network Analysis in Python*  
+[CERTIFICATE]  
