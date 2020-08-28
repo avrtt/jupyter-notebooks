@@ -3,7 +3,7 @@ This repository contains IPython notebooks covering various data science and mac
 Some notebooks are assignments from online courses.  
   
 ### List of courses:  
-* **Coursera specialization '[Machine Learning and Data Analysis](https://www.coursera.org/specializations/machine-learning-data-analysis)'** *(RUS)*  
+* **Coursera specialization '[Machine Learning and Data Analysis](https://www.coursera.org/specializations/machine-learning-data-analysis)'**  
 [SPECIALIZATION CERTIFICATE]  
 
 1. *Mathematics and Python for data analysis*  
@@ -18,7 +18,7 @@ Some notebooks are assignments from online courses.
 [CERTIFICATE]  
   
   
-* **Coursera specialization '[Applied Data Science with Python](https://www.coursera.org/specializations/data-science-python)'** *(ENG)*  
+* **Coursera specialization '[Applied Data Science with Python](https://www.coursera.org/specializations/data-science-python)'**  
 [SPECIALIZATION CERTIFICATE]  
 
 1. *Introduction to Data Science in Python*  
