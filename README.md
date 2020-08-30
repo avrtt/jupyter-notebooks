@@ -24,7 +24,7 @@ Some notebooks are assignments from online courses.
 [SPECIALIZATION CERTIFICATE]  
 
 1. *Introduction to Data Science in Python*  
-[CERTIFICATE]  
+[[CERTIFICATE]](https://github.com/Lenferdetroud/misc/blob/master/michigan_certificate_1.pdf)  
 2. *Applied Plotting, Charting & Data Representation in Python*  
 [CERTIFICATE]  
 3. *Applied Machine Learning in Python*  
