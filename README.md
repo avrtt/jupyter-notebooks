@@ -20,7 +20,7 @@ Some notebooks are assignments from online courses.
 [CERTIFICATE]  
   
   
-* **Coursera specialization '[Applied Data Science with Python](https://www.coursera.org/specializations/data-science-python)'** [*[see folder](https://github.com/Lenferdetroud/ipython-notebooks/tree/master/%D0%90pplied%20Data%20Science%20with%20Python)*]  
+* **Coursera specialization '[Applied Data Science with Python](https://www.coursera.org/specializations/data-science-python)'** - *[see folder](https://github.com/Lenferdetroud/ipython-notebooks/tree/master/%D0%90pplied%20Data%20Science%20with%20Python)*  
 [SPECIALIZATION CERTIFICATE]  
 
 1. *Introduction to Data Science in Python*  
