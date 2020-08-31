@@ -17,7 +17,7 @@ Some notebooks are assignments from online courses.
 5. *Data analysis applications*  
 [[CERTIFICATE]](https://github.com/Lenferdetroud/misc/blob/master/mipt_certificate_5.pdf)  
 6. *Data analysis: the capstone project*  
-[CERTIFICATE]  
+[[CERTIFICATE]](https://github.com/Lenferdetroud/misc/blob/master/mipt_certificate_6.pdf)  
   
   
 * **Coursera specialization '[Applied Data Science with Python](https://www.coursera.org/specializations/data-science-python)'** - *[see folder](https://github.com/Lenferdetroud/ipython-notebooks/tree/master/%D0%90pplied%20Data%20Science%20with%20Python)*  
