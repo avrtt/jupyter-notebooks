@@ -4,7 +4,7 @@ Some notebooks are assignments from online courses.
   
 ### List of courses:  
 * **Coursera specialization '[Machine Learning and Data Analysis](https://www.coursera.org/specializations/machine-learning-data-analysis)'**  
-[SPECIALIZATION CERTIFICATE]  
+[[SPECIALIZATION CERTIFICATE]](https://github.com/Lenferdetroud/misc/blob/master/mipt_certificate_spec.pdf)  
 
 1. *Mathematics and Python for data analysis*  
 [[CERTIFICATE]](https://github.com/Lenferdetroud/misc/blob/master/mipt_certificate_1.pdf)  
@@ -21,7 +21,7 @@ Some notebooks are assignments from online courses.
   
   
 * **Coursera specialization '[Applied Data Science with Python](https://www.coursera.org/specializations/data-science-python)'** - *[see folder](https://github.com/Lenferdetroud/ipython-notebooks/tree/master/%D0%90pplied%20Data%20Science%20with%20Python)*  
-[SPECIALIZATION CERTIFICATE]  
+[[SPECIALIZATION CERTIFICATE]](https://github.com/Lenferdetroud/misc/blob/master/michigan_certificate_spec.pdf)  
 
 1. *Introduction to Data Science in Python*  
 [[CERTIFICATE]](https://github.com/Lenferdetroud/misc/blob/master/michigan_certificate_1.pdf)  
