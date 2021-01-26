@@ -1,4 +1,4 @@
-This folder contains Kaggle kernels.
+This folder contains my Kaggle kernels.
 For more details, see my [Kaggle profile](https://www.kaggle.com/lenferdetroud).
   
 # Contents
